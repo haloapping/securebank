@@ -1,0 +1,11 @@
+APPLY_LOAN_MENU = "//a[@data-testid='sidebar-link-apply-loan']"
+
+APPLY_FOR_LOAN_BTN = "//button[@data-testid='open-apply-loan-btn']"
+LOAN_TYPE_DROPDOWN_LIST = "//button[@data-testid='loan-type-select']"
+LOAN_AMOUNT_INPUT_TXT = "//input[@id='loan-amount']"
+TERM_LENGTH_DROPDOWN_LIST = "//button[@id='loan-term-trigger']"
+INTEREST_RATE_INPUT_TXT = "//input[@id='loan-interest-rate']"
+DISBURSEMENT_ACCOUNT_DROPDOWN_LIST = "//button[@id='loan-account-trigger']"
+PURPOSE_INPUT_TXT = "//textarea[@name='loan_purpose_field']"
+REVIEW_APPLICATION_BTN = "//button[@data-testid='review-loan-btn']"
+SUBMIT_APPLICATION_BTN = "//button[@data-testid='confirm-loan-btn']"
