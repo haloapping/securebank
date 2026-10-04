@@ -1,5 +1,6 @@
 import allure
 from playwright.sync_api import Page, expect
+
 from selector import notification_page_selector as nps
 
 

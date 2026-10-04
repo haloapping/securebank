@@ -2,7 +2,7 @@ from faker import Faker
 from playwright.sync_api import Page
 
 from page import account_page, auth_page
-from page.account_page import AccountNew, AccountEdit, AccountTypeEnum
+from page.account_page import AccountEdit, AccountNew, AccountTypeEnum
 from page.auth_page import LoginCredential
 
 

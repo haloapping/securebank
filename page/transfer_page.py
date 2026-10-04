@@ -3,6 +3,7 @@ from enum import StrEnum
 
 import allure
 from playwright.sync_api import Page
+
 from selector import transfer_page_selector as tps
 
 
