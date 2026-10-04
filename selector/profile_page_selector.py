@@ -1,0 +1,7 @@
+PROFILE_MENU = "//a[@data-testid='sidebar-link-profile']"
+USERNAME_TXT = "//span[@data-testid='profile-username']"
+FIRST_NAME_TXT = "//span[@data-testid='profile-first-name']"
+LAST_NAME_TXT = "//span[@data-testid='profile-last-name']"
+EMAIL_TXT = "//span[@data-testid='profile-email']"
+PHONE_TXT = "//span[@data-testid='profile-phone']"
+ADDRESS_TXT = "//span[@data-testid='profile-address']"

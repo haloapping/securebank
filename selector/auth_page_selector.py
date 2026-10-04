@@ -1,0 +1,7 @@
+USERNAME_INPUT_TXT = "#login-username"
+PASSWORD_INPUT_TXT = "#login-password"
+REMEMBER_ME_CHECKBOX = "//span[@data-testid='login-remember-me-checkbox']"
+SIGN_IN_BTN = "//button[@data-testid='login-submit-btn']"
+FORGOT_PASSWORD_BTN = "//a[@data-testid='forgot-password-link']"
+LOGIN_ERR_MSG = "//span[@data-testid='login-error-message']"
+LOGOUT_BTN = "//button[@data-testid='topbar-logout-btn']"

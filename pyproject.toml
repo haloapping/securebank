@@ -1,0 +1,14 @@
+[project]
+name = "securebank"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "allure-pytest>=2.16.2",
+    "faker>=40.40.0",
+    "openpyxl>=3.1.5",
+    "pytest-playwright>=0.9.0",
+    "pytest-xdist>=3.8.0",
+    "python-dotenv>=1.2.4",
+]
